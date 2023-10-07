@@ -1,2 +1,3 @@
 HELIOS
-Nombre del equipo: Solar Coders Nombre de la aplicación: Helios
+
+Nombre del equipo: Sonic Coders Nombre de la aplicación: Helios
