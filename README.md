@@ -8,13 +8,13 @@ We developed a multimedia app that incorporates content such as images, videos a
 ### Link to Final Project
 
 **GitHub**
-h
+https://github.com/Cesarq19/lavate-las-manos/edit/main/README.md
 
 **Figma**
 https://www.figma.com/file/tC4E8FeA7Xk3TIsuOcvRiK/NS-Mockup?type=design&node-id=0%3A1&mode=design&t=mikdSZvvZyDXXFnC-1
 
 **Simulation Prototype**
-h
+https://grabcad.com/library/touch-cell-phone-case-1
 
 ### Link to Project "Demo"
 
