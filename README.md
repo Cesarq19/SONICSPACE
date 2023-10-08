@@ -9,7 +9,7 @@ Desarrollamos una aplicación móvil explicativa, interactiva y compatible con c
 # Enlace al Proyecto Final
 
 # Descripción detallada del Proyecto
-- ##### ¿Qué hace exactamente?
+- ###### ¿Qué hace exactamente?
 El proyecto consiste en varios aspectos, el primero, el acceso a la información brindada por la nasa además de agregarles contextos para hacer más factible el informe sobre los datos, como segundo tenemos la sonificación que permite convertir los videos captados por la nasa en sonidos para las personas con alguna discapacidad visual, por último, una experiencia sensorial a través de vibraciones y oscilaciones.
 
 - ##### ¿Cómo funciona?
