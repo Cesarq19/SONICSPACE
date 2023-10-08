@@ -1,8 +1,8 @@
-# Project Submission - Vision Ears
+# Project Submission - Sonic Space
 
 Team Name: Sonic Coders 
 
-Application Name: Vision Ears
+Application Name: Sonic Space
 
 ### Summary of the High Level Project
 We developed a multimedia app that incorporates content such as images, videos and musical compositions provided by NASA. As it is easy to interact with the user, it becomes a valuable tool to promote interest in astronomy and space research in children, young people and adults around the world. The challenge was solved by developing a Python code that allows transforming the videos captured by NASA's space telescopes into audios; considering characteristics such as frequency and intensity of luminosity. This figma mockup presents several sections to observe and learn from space; such as videos, videos with sounds and sounds with sensory experience. In addition, we made a prototype case out of latex phone material, so that the waves and vibrations provide the user with a sensory experience of the cosmos that involves more than one sense of their body. We are committed to ensuring that the cosmos can be understood by everyone, so our app has been specially designed so that blind and visually impaired people can also be included as space travellers or scientists.
