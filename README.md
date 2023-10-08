@@ -25,26 +25,47 @@ h
 
 - **What exactly does it do?**
 
-El proyecto consiste en varios aspectos, el primero, el acceso a la información brindada por la nasa además de agregarles contextos para hacer más factible el informe sobre los datos, como segundo tenemos la sonificación que permite convertir los videos captados por la nasa en sonidos para las personas con alguna discapacidad visual, por último, una experiencia sensorial a través de vibraciones y oscilaciones.
+The project consists of several aspects: firstly, access to the information provided by NASA and the addition of contexts to make it more feasible to report on the data; secondly, sonification, which allows the videos captured by NASA to be converted into sound for the visually impaired; and finally, a sensory experience through vibrations and oscillations.
 
 - **How does it work?**
 
-Su funcionamiento depende de la opción que se elija dentro de app, se da en la opción de manual e ingresa las diferentes tipos de opciones existentes, siendo las opciones, videos con información, sonidos de los videos y la sensorial con las vibraciones para una mejor experiencia.
+Its operation depends on the option that is chosen within the app, it is given in the manual option and enters the different types of existing options, being the options, videos with information, sounds of the videos and the sensory with vibrations for a better experience.
 
 - **What benefits does it have?**
 
-Esto trae a la comunidad científica muchos beneficios, ya que existirá lugares cuyos sonidos sean escasoso o difíciles de identificar para el oído humano e inclusive para los dispositivos móviles de hoy en día, sin embargo, se puede tener una idea significativa de lo que sería el sonido de dichos videos, además de contribuir con las personas que tienen alguna discapacidad visual, de tal forma que tengan una alternativa viable para experimentar los acontecimientos espaciales.
+This brings many benefits to the scientific community, as there will be places whose sounds are difficult to identify for the human ear and even for current mobile devices, but it can give a meaningful idea of what the sound of those videos would be like, as well as helping visually impaired people as the app not only stimulates sight, but also hearing and touch. We propose an interactive tool to get children interested in space science and become the next scientists or space travellers.
 
 - **What do you hope to achieve?**
 
-Esperamos lograr que las personas menos afortunidas con problemas visuales, sean capaces de apreciar las maravillas que tiene le universo, de tal forma, que la comunidad científica crezca y tengan deseos por la investigación y trabajos de este tipo.
+We hope that less fortunate people with visual impairments will be able to appreciate the wonders of the universe, so that the scientific community will grow and have a desire for research and work of this kind.
 
-- #### ¿Qué herramientas, lenguajes de coidificación, hardware o software utilizó para desarrollar su proyecto?
+- **What tools, coding languages, hardware or software did you use to develop your project?**
 
-Utilizamos lenguajes de programación como python para la programación del código que realiza la sonificación a partir de la base de datos y algunos software como inventor para el diseño del prototipo de carcasa de teléfono y figma para el desarrollo del mockup.
+We use programming languages such as python for the programming of the code that performs the sonification from the database and some software such as inventor for the design of the prototype phone case and figma for the development of the mockup.
 
-# Datos de la Agencia Espacial
+---
 
-# Viaje de Hackatón
+### Space Agency Data
 
-# Referencias
+We used the data provided by NASA about sonifications of images and videos, for example, "NASA's previous sonifications in 2D", which helped us to have a notion of the approach we would have to use to solve this challenge, since it helps us to see previous sonification models and we can implement those that are more feasible. 
+In addition to this, we used some space video pages such as "3D representations of flybys and flybys based on Hubble Space Telescope images" and "Hyperspectral data from NASA's EO-1 Hyperion instrument", which helped us to pigeonhole and classify the sounds based on various aspects such as magnitude of brightness intensity and contrasts in terms of seconds.
+Finally, we learned a little more through space programs about the experiences that astronauts live in space through the 5 senses and associating them to what can be lived with this new application.
+
+---
+
+### Hackathon Journey
+
+Our experience in this Hackathon was really surprising, exciting and above all quite learning. We learned more about the sonification of images and videos by extracting a database that does not always exist as it happened on this occasion. What inspired us most to choose this challenge was the impact it can have on society, not only to encourage interest in these kinds of issues, but also to address the problems that commonly exist with people who have a disability. 
+For this challenge we analysed the data and understood how useful it can be for people who are visually impaired or even have no vision, through sound you can generate experiences similar to the visualisations of a video and with the sensory ability to feel the vibrations and make the user experience more real, leaving as a message that there is no restriction to generate an interest and spatial love. Each part of the challenge we faced was tackled as a team and not each one on their own, as by collaborating with each other the result was better and we were able to project our message to people.
+Finally, we would like to thank the mentors who were in our environment, with whom we were able to socialise and clear certain doubts that arose during the challenge and that could have further complicated our proposed solution.
+
+---
+
+### Reference - Data
+
+- **Sonifications - NASA Science. (s. f.).**
+https://science.nasa.gov/mission/hubble/multimedia/sonifications
+- **Videos. (s. f.). Hubble.**
+https://hubblesite.org/videos?Type=Scientific%20Visualizations&keyword=flight
+- **Survey, U.-. U. G. (s. f.). EarthExplorer. None.**
+https://earthexplorer.usgs.gov/
